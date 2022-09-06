@@ -1,4 +1,3 @@
-# MohitSaraff
 <h1 align="center">Hi 👋, I'm Mohit Kumar Saraf</h1>
 <h3 align="center">Currently pursuing my bachelor's degree majoring in Computer Science.</h3>
 
