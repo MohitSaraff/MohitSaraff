@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohit Kumar Saraf</h1>
 <h3 align="center">Currently pursuing my bachelor's degree majoring in Computer Science.</h3>
 
-<img align="right" src="https://pin.it/5jZ6A5H"></img>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohitsaraff&label=Profile%20views&color=0e75b6&style=flat" alt="mohitsaraff" /> </p>
 
 <p align="left"> <a href="https://twitter.com/saraffmohit" target="blank"><img src="https://img.shields.io/twitter/follow/saraffmohit?logo=twitter&style=for-the-badge" alt="saraffmohit" /></a> </p>
