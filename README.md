@@ -107,7 +107,7 @@
 <br>
 <br>
 <a href="https://github.com/MohitSaraff/">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohitSaraff&theme=github_dark&"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohitSaraff&theme=2077&"/>
 </a>
 </div>
 
