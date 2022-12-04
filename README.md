@@ -85,7 +85,7 @@
 
 <div align="center">
 	
-<img align="center" src="./github-metrics.svg" alt="Metrics" width="60%">
+<img align="center" src="./github-metrics.svg" alt="Metrics" width="600">
 <br>
 
 <a href="https://github.com/MohitSaraff/">
