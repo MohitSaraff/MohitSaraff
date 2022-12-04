@@ -84,6 +84,8 @@
 <br>
 
 <div align="center">
+	
+![Metrics](https://metrics.lecoq.io/MohitSaraff?template=classic&base.hireable=true&isocalendar=1&tweets=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&isocalendar=false&isocalendar.duration=half-year&tweets=false&tweets.user=.user.twitter&tweets.attachments=false&tweets.limit=2&config.timezone=Asia%2FCalcutta)
 
 <a href="https://github.com/MohitSaraff/">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohitSaraff&theme=github_dark"/>
