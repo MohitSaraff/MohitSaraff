@@ -12,7 +12,7 @@
 <br>
 
 - 🔭 I’m currently working on **AR/VR Frameworks**.
-- 🌱 I’m currently learning **Web Development**.
+- 🌱 I’m currently learning **Blockchain Development**.
 - 👨‍💻 All of my projects are available at [MohitSaraff](https://github.com/MohitSaraff).
 - 💬 Ask me about **Anything that includes tech**.
 - 📫 How to reach me [**Mail**](mailto:saraffmohit@gmail.com).
