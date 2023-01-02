@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **Blockchain Development**.
 - 👨‍💻 All of my projects are available at [MohitSaraff](https://github.com/MohitSaraff).
 - 💬 Ask me about **Anything that includes tech**.
-- 📫 How to reach me [**Mail**](mailto:saraffmohit@gmail.com).
+- 📫 Reach me at my [**Mail**](mailto:saraffmohit@gmail.com).
 <br>
 <img src="https://komarev.com/ghpvc/?username=MohitSaraff&style=for-the-badge&color=blue" />
 <br><br>
@@ -45,7 +45,7 @@
    ![PHP](https://img.shields.io/badge/PHP%20-%234e5b93.svg?style=for-the-badge&logo=php&logoColor=white)
    ![Node](https://img.shields.io/badge/Node%20-%238fc53f.svg?style=for-the-badge&logo=node.js&logoColor=white)
    ![Express](https://img.shields.io/badge/Express%20-%23494949.svg?style=for-the-badge&logo=express&logoColor=white)
-    
+
 - **Databases**:
 
    ![MongoDB](https://img.shields.io/badge/MongoDB-%2309934e.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -62,7 +62,7 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Canva](https://img.shields.io/badge/canva-%2300c4cc.svg?style=for-the-badge&logo=canva&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 - **Extras**:
 
