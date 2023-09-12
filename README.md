@@ -107,7 +107,7 @@
 <br>
 <br>
 
-# <p align="center" ><img src="https://github.com/MohitSaraff/MohitSaraff/raw/main/handshake.gif" width ="80"><b> Let's Connect..!</b></p>
+# <p align="center" ><img src="https://github.com/MohitSaraff/MohitSaraff/raw/main/handshake.gif" width ="80"><b> Let's Connect...!</b></p>
 <br>
 <div align='center'>
 
