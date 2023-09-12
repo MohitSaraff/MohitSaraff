@@ -32,8 +32,3 @@ jobs:
           config_timezone: Asia/Calcutta
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-          plugin_tweets: yes
-          plugin_tweets_token: ${{ secrets.TWITTER_BEARER_TOKEN }}
-          plugin_tweets_attachments: yes
-          plugin_tweets_limit: 1
-          plugin_tweets_user: saraffmohit
